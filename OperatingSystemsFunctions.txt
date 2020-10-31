@@ -3,3 +3,12 @@ who performs standard tasks commitments at home. Windows 10 supports application
 be used across all compatible Microsoft devices and get regularly updated. Unfortunately, 
 Windows 10 doesn't come installed with the full Office suite usually (Word, Excel, PowerPoint, etc.), 
 but it didn't prevent it from becoming the most used OS among people. 
+
+
+
+Android is a Linux based operating system created primarily for touch screens mobile devices 
+such as smartphones and tablet computers. Android aims to offer affordable high-tech devices,
+and it's a powerful operating system that supports a large number of advanced applications 
+that help people manage their lives. 
+
+
