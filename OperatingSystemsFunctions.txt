@@ -12,3 +12,13 @@ and it's a powerful operating system that supports a large number of advanced ap
 that help people manage their lives. 
 
 
+
+Following the rise of smartphones' popularity, Microsoft invented in 2010 a Windows phone which 
+is a completely new mobile operating system version in reply to Apple and Android that stunned
+their consumers who didn't previously have anything similar. C# is the language of Windows Mobile
+which is very similar to C++ and Java, but for some functions, Windows has adopted them from Java. 
+Like other phones, Windows Phone supports application functions and has its own application
+repository. The graphic design of the user interface is very recognizable which consists of
+interesting features such as "alive" titles instead of notifications and built-in integration
+that allows its users to set up their email boxes. 
+
